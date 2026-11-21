@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Damix222/tech-prog-2026/labs/lab3/rpg"
+	"github.com/Damix222/tech-prog-2026/labs/laba03/rpg"
 	"os"
 )
 
